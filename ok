@@ -1,0 +1,10 @@
+Records on the UI for these tables needs to be deleted. 
+- Procurement -> Purchase Management 
+- QA & QC -> COA# Generation, SA Generation, COA Generation, IPCOA Generation, FGCOA Generation, BMR/BPR Issuance 
+- Production -> Production Plan, Transfer Ticket, Material Requistion, BMR/BPR, BMR/BPR Form Request 
+- Store & SVM -> Order Mgmt, Goods Recieved, Material Requistion, Purchase Request Form, Goods Dispatched, Goods Issued to Production, Goods Received from Production 
+- Sale & CRM -> PI Request, Quotation Requests 
+- Payroll Management -> Advance Salary, Reimbursements 
+- Finance -> Bill Module -> Bill Generation, Payment Made, Creditors / Trade Payable 
+- Finance -> Invoice Generation -> Delivery Challan Generation, Payment Recieved, Debators/ Trade Receivables 
+- Finance -> Expenese -> Reimbursements Claim
